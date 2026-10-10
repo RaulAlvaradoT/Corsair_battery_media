@@ -2,7 +2,7 @@
 ; Build the executable first (see build.ps1), then compile this script with ISCC.
 
 #define MyAppName "Corsair Battery Level"
-#define MyAppVersion "2.1.0"
+#define MyAppVersion "1.0.0"
 #define MyAppPublisher "Corsair Battery Level"
 #define MyAppExeName "CorsairBatteryLevel.exe"
 
