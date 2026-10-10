@@ -1,0 +1,5 @@
+pywinusb
+keyboard
+pystray
+Pillow
+pyinstaller
